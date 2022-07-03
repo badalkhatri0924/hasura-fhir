@@ -1,0 +1,2 @@
+- "!include public_patient.yaml"
+- "!include public_patient_telecom.yaml"
